@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/aamir-jiwani-4440a8248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir-jiwani-4440a8248" height="30" width="40" /></a>
 <a href="https://fb.com/aamir.adam.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aamir.adam.5" height="30" width="40" /></a>
 <a href="https://instagram.com/aamir_adam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aamir_adam_" height="30" width="40" /></a>
-<a href="https://discord.gg/aamirjiwani103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aamirjiwani103" height="30" width="40" /></a>
+<a href="https://discord.gg/VWnGMP62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aamirjiwani103" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
