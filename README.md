@@ -36,7 +36,5 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aamir103&show_icons=true&locale=en" alt="aamir103" /></p>
 
-<p>&nbsp;<img align="left" src="[https://github-readme-stats.vercel.app/api?username=aamir103&show_icons=true&locale=en](https://github-stats-alpha.vercel.app/api?username={your-github-username})https://github-stats-alpha.vercel.app/api?username={your-github-username}" alt="aamir103" /></p>
-
 
 
