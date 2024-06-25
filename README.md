@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir103&label=Profile%20views&color=0e75b6&style=flat" alt="aamir103" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aamirjiwani104" target="blank"><img src="https://img.shields.io/twitter/follow/aamirjiwani104?logo=twitter&style=for-the-badge" alt="aamirjiwani104" /></a> </p>
+<p align="left"> <a href="https://instagram.com/aamir_adam_" target="blank"><img src="https://img.shields.io/twitter/follow/aamirjiwani104?logo=twitter&style=for-the-badge" alt="aamirjiwani104" /></a> </p>
 
 - 🔭 I’m currently working on **Bitstream Chef**
 
 - 🌱 I’m currently learning **C#, Web3.0, etc**
 
-- 💬 Ask me about **Reactjs, PHP, Laravel**
+- 💬 Ask me about **Reactjs, PHP, Python**
 
 - 📫 How to reach me **aamirjiwani103@gmail.com**
 
